@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **li-guohao/li-guohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- |爱好分享、希望自己能成为对他人、对社会有价值的油腻大叔。|
+- | 技术宅 | ACGN爱好者 | 程序员 |
+- | [我的个人主页](https://liguohao.cn)  |
+- | 公事请联系work@liguohao.cn | 私事请联系liguohao_cn@qq.com
