@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**li-guohao/li-guohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GuoHao Li
 
-Here are some ideas to get you started:
+[![stats]][home]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![language]][home]
+
+</div>
+
+
+[home]: https://github.com/li-guohao
+
+[stats]: https://github-readme-stats.vercel.app/api?username=li-guohao&locale=cn&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true
+[language]: https://github-readme-stats.vercel.app/api/top-langs?username=li-guohao&locale=cn&show_icons=true&theme=transparent&card_width=470&hide_border=true
