@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f0f0f0&height=200&section=header&text=%F0%9F%96%A8%EF%B8%8F%20ROLLING WORLD%20SPACE%20%F0%9F%96%A8%EF%B8%8F&fontSize=60&animation=fadeIn&fontAlignY=35&fontColor=ff00ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f0f0f0&height=200&section=header&text=%F0%9F%96%A8%EF%B8%8F%20ROLLINGWORLD%20WORLD%20%F0%9F%96%A8%EF%B8%8F&fontSize=60&animation=fadeIn&fontAlignY=35&fontColor=ff00ff" width="100%"/>
 </p>
 
 <!-- Neon Glow Title -->
