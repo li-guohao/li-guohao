@@ -18,20 +18,20 @@
 
 ## Now
 
-- Shipping practical AI and automation projects across agents, monitoring, and developer workflows.
+- Shipping practical AI and automation projects across agents, systems, and developer workflows.
 - Exploring efficient ML systems, attention mechanisms, and local model constraints.
 - Keeping public work readable enough to inspect, reuse, and improve later.
 
-## Selected Work
+## Selected Original Work
 
-| Project | What it is | Stack / lane | Signal |
-| --- | --- | --- | --- |
-| [`worldmonitor`](https://github.com/li-guohao/worldmonitor) | Real-time global intelligence dashboard for news, geopolitical, and infrastructure monitoring | TypeScript, applied AI | Current product work |
-| [`engineering-intelligence-suite`](https://github.com/li-guohao/engineering-intelligence-suite) | Technical debt, PERT cost estimation, and incident management toolkit with LLM support | TypeScript, developer tools | Zero-runtime-dependency toolkit |
-| [`asam-attention`](https://github.com/li-guohao/asam-attention) | Adaptive Sparse Attention Module with Flash Attention optimization | Python, PyTorch, CUDA | Efficient ML systems |
-| [`agentguard`](https://github.com/li-guohao/agentguard) | Security guard for AI agents, skill trust, secret protection, and runtime action checks | Agent security | Safety infrastructure |
-| [`OpenRobotHarness`](https://github.com/li-guohao/OpenRobotHarness) | Landing repo for robot harness model, dataset, and benchmark work | Robotics, benchmark design | Research scaffold |
-| [`workplace-cookware-trio`](https://github.com/li-guohao/workplace-cookware-trio) | A set of workplace responsibility and negotiation AI skills | AI skills | Bilingual skill package |
+Selection rule: this section lists public repositories where `fork=false`.
+
+| Lane | Repositories | What they show |
+| --- | --- | --- |
+| AI systems | [`asam-attention`](https://github.com/li-guohao/asam-attention), [`MoBA-Memory-Phase-1`](https://github.com/li-guohao/MoBA-Memory-Phase-1) | Efficient attention, GPU-aware optimization, and memory-augmented model experiments. |
+| Developer and agent tools | [`engineering-intelligence-suite`](https://github.com/li-guohao/engineering-intelligence-suite), [`workplace-cookware-trio`](https://github.com/li-guohao/workplace-cookware-trio) | Practical toolkits, LLM-assisted workflows, and reusable AI skill packaging. |
+| Research and applied methods | [`OpenRobotHarness`](https://github.com/li-guohao/OpenRobotHarness), [`causal-finance`](https://github.com/li-guohao/causal-finance) | Benchmark scaffolds, causal analysis, and applied research code. |
+| Personal web | [`li-guohao.github.io`](https://github.com/li-guohao/li-guohao.github.io) | Public home base for writing and project notes. |
 
 ## Operating Notes
 
@@ -40,7 +40,7 @@
 | Clear interfaces | Prefer explicit workflows, readable docs, and small public surfaces. |
 | Practical experiments | Treat prototypes as learning loops, but leave enough structure for reuse. |
 | Agent-aware engineering | Design tools around prompts, permissions, traces, and failure modes. |
-| Measured claims | Let repositories and benchmarks carry the proof instead of oversized profile widgets. |
+| Measured ownership | Keep forks out of the main showcase and let original repositories carry the proof. |
 
 ## Stack Signals
 
@@ -61,6 +61,6 @@ product surface  small web apps / dashboards / documentation-first tools
 <details>
 <summary>Profile design note</summary>
 
-This profile is intentionally compact: one static banner, a few consistent badges, selected work with context, and no trophy wall or stats collage. The structure is designed to make future public projects easy to add without changing the visual system.
+This profile is intentionally compact: one static banner, a few consistent badges, selected original work with context, and no trophy wall or stats collage. The main showcase excludes forked repositories so ownership signals stay clean.
 
 </details>
