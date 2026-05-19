@@ -44,7 +44,7 @@ Create a README containing:
 
 ```markdown
 Now
-Selected Original Work
+Selected Work
 Operating Notes
 Stack Signals
 Contact
@@ -62,7 +62,7 @@ Expected: GitHub profile and selected repository links are present.
 
 Run: `Invoke-RestMethod -Uri 'https://api.github.com/users/li-guohao/repos?per_page=100&sort=pushed&direction=desc'`
 
-Expected: every repository in `Selected Original Work` is selected from records where `fork=false`; `worldmonitor` and `agentguard` are excluded because they are forks.
+Expected: every repository in the public `Selected Work` section is selected from records where `fork=false`; `worldmonitor` and `agentguard` are excluded because they are forks. The README must not display the internal `fork=false` selection rule.
 
 ### Task 3: Static Visual Asset
 
@@ -132,7 +132,7 @@ Expected: branch is clean after push.
 
 Run: `gh api repos/li-guohao/li-guohao/readme --header 'Accept: application/vnd.github.raw'`
 
-Expected: returned README includes `Selected Original Work`, `asam-attention`, `causal-finance`, and `Profile design note`; it does not include `worldmonitor` or `agentguard`.
+Expected: returned README includes `Selected Work`, `asam-attention`, `causal-finance`, and `Profile design note`; it does not include `worldmonitor`, `agentguard`, or public copy explaining the `fork=false` selection rule.
 
 ## Plan Self-Review
 

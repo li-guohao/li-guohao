@@ -22,7 +22,7 @@ Use a documentation-first profile with a small terminal accent. The README shoul
 - Static SVG banner with the profile name, terminal-style identity block, and three focus tags.
 - Centered badge row with only a few consistent badges.
 - Short terminal-style positioning line.
-- Sections for `Now`, `Selected Original Work`, `Operating Notes`, `Stack Signals`, and `Contact`.
+- Sections for `Now`, `Selected Work`, `Operating Notes`, `Stack Signals`, and `Contact`.
 - Collapsible note explaining the restraint behind the README design.
 
 ## Constraints
@@ -30,8 +30,8 @@ Use a documentation-first profile with a small terminal accent. The README shoul
 - GitHub Markdown only: no custom CSS, JavaScript, hover effects, external layout scripts, or custom fonts that are required for comprehension.
 - Avoid template-heavy elements such as trophy walls, quote cards, snake animations, excessive stats cards, and large random badge grids.
 - Avoid placeholder social links and unverifiable claims.
-- Main showcase entries must be public repositories where GitHub API reports `fork=false`.
-- Keep future updates simple: new original projects should fit into the `Selected Original Work` table without redesigning the page.
+- Main showcase entries must be public repositories where GitHub API reports `fork=false`; this is an internal maintenance rule, not public README copy.
+- Keep future updates simple: new original projects should fit into the `Selected Work` table without redesigning the page.
 
 ## Self-Review
 

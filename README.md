@@ -22,9 +22,7 @@
 - Exploring efficient ML systems, attention mechanisms, and local model constraints.
 - Keeping public work readable enough to inspect, reuse, and improve later.
 
-## Selected Original Work
-
-Selection rule: this section lists public repositories where `fork=false`.
+## Selected Work
 
 | Lane | Repositories | What they show |
 | --- | --- | --- |
@@ -61,6 +59,6 @@ product surface  small web apps / dashboards / documentation-first tools
 <details>
 <summary>Profile design note</summary>
 
-This profile is intentionally compact: one static banner, a few consistent badges, selected original work with context, and no trophy wall or stats collage. The main showcase excludes forked repositories so ownership signals stay clean.
+This profile is intentionally compact: one static banner, a few consistent badges, selected work with context, and no trophy wall or stats collage. The structure is designed to make future public projects easy to add without changing the visual system.
 
 </details>
