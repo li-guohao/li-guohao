@@ -18,13 +18,12 @@
 
 ## About
 
-I'm **Guohao Li**, focused on building efficient AI systems, practical developer tools, and reusable research code. I keep experiments small enough to reuse, turn agent workflows into tangible tools, and write notes that make the next edit faster.
+I'm **Guohao Li**, focused on efficient AI systems and reasoning infrastructure. I work on making model inference faster, memory smarter, and agent reasoning more reliable — keeping experiments small enough to reuse.
 
-- Building with **[@DarkMentalAI](https://github.com/DarkMentalAI)** and **[@LoIV44](https://github.com/LoIV44)**
-- Contributing to the [nullclaw](https://github.com/nullclaw/nullclaw) autonomous AI infrastructure ecosystem
-- Exploring efficient attention, memory-aware models, and causal inference
-- Packaging LLM-assisted workflows into reusable developer tooling
-- Sharing notes and project indexes at [li-guohao.github.io](https://li-guohao.github.io)
+- Building AI systems with **[@DarkMentalAI](https://github.com/DarkMentalAI)** and **[@LoIV44](https://github.com/LoIV44)**
+- Contributing to [nullclaw](https://github.com/nullclaw/nullclaw) — autonomous AI infrastructure in Zig
+- Researching efficient attention, memory-aware models, and causal reasoning methods
+- Designing compact training and inference loops for consumer hardware
 
 ---
 
