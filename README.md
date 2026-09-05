@@ -1,6 +1,10 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=140&section=header&text=Guohao+Li&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/li-guohao">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=0F766E&center=true&vCenter=true&width=640&height=70&lines=Guohao+Li;Applied+AI+Systems;Developer+Tools+%26+Research+Code" alt="Typing header" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=0F766E&center=true&vCenter=true&width=560&height=45&lines=Applied+AI+Systems;Efficient+Inference+%26+Reasoning;Research+Code+%26+Experiments" alt="Typing subtitle" />
   </a>
 </p>
 
@@ -12,8 +16,6 @@
   <a href="mailto:guohaoli2000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><code>applied AI systems / developer tools / research code</code></p>
-
 ---
 
 ## About
@@ -21,7 +23,6 @@
 I'm **Guohao Li**, focused on efficient AI systems and reasoning infrastructure. I work on making model inference faster, memory smarter, and agent reasoning more reliable — keeping experiments small enough to reuse.
 
 - Building AI systems with **[@DarkMentalAI](https://github.com/DarkMentalAI)** and **[@LoIV44](https://github.com/LoIV44)**
-- Contributing to [nullclaw](https://github.com/nullclaw/nullclaw) — autonomous AI infrastructure in Zig
 - Researching efficient attention, memory-aware models, and causal reasoning methods
 - Designing compact training and inference loops for consumer hardware
 
@@ -36,6 +37,22 @@ I'm **Guohao Li**, focused on efficient AI systems and reasoning infrastructure.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=li-guohao&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+---
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=li-guohao&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=li-guohao&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -81,16 +98,16 @@ I'm **Guohao Li**, focused on efficient AI systems and reasoning infrastructure.
 
 ## Current Loop
 
-- Keeping experiments small enough to reuse
-- Turning agent workflows into practical tools
-- Writing notes that make the next edit faster
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Efficient_Inference-0F766E?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Building-Memory--aware_Models-2F6FED?style=flat-square" alt="Building" />
+  <img src="https://img.shields.io/badge/Research-Causal_Reasoning-7C3AED?style=flat-square" alt="Research" />
+</p>
+
+<p align="center"><i>Keeping experiments small enough to reuse.</i></p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=li-guohao&color=0f766e&style=flat-square&label=Profile+views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>"Keeping experiments small enough to reuse."</i>
 </p>
