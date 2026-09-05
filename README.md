@@ -66,12 +66,7 @@ I'm **Guohao Li**, focused on building efficient AI systems, practical developer
   </a>
 </p>
 
-| Category | Projects | What it's about |
-| --- | --- | --- |
-| **AI Systems** | [`asam-attention`](https://github.com/li-guohao/asam-attention) · [`MoBA-Memory-Phase-1`](https://github.com/li-guohao/MoBA-Memory-Phase-1) | Efficient attention and memory-aware model experiments |
-| **Developer Tools** | [`engineering-intelligence-suite`](https://github.com/li-guohao/engineering-intelligence-suite) · [`workplace-cookware-trio`](https://github.com/li-guohao/workplace-cookware-trio) | LLM-assisted workflows and reusable AI skill packaging |
-| **Research & Methods** | [`OpenRobotHarness`](https://github.com/li-guohao/OpenRobotHarness) · [`causal-finance`](https://github.com/li-guohao/causal-finance) | Benchmark scaffolds, causal analysis, applied research code |
-| **Personal Web** | [`li-guohao.github.io`](https://github.com/li-guohao/li-guohao.github.io) | Public home base for writing and project notes |
+<p align="center">More experiments and tools on <a href="https://github.com/li-guohao?tab=repositories">my repositories</a>.</p>
 
 ---
 
@@ -88,5 +83,5 @@ I'm **Guohao Li**, focused on building efficient AI systems, practical developer
 </p>
 
 <p align="center">
-  <i>“Keeping experiments small enough to reuse.”</i>
+  <i>"Keeping experiments small enough to reuse."</i>
 </p>
