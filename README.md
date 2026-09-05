@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=140&section=header&text=Guohao+Li&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" width="100%" />
-</p>
+<h1 align="center">Guohao Li</h1>
 
 <p align="center">
-  <a href="https://github.com/li-guohao">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=0F766E&center=true&vCenter=true&width=560&height=45&lines=Applied+AI+Systems;Efficient+Inference+%26+Reasoning;Research+Code+%26+Experiments" alt="Typing subtitle" />
-  </a>
+  <code>Applied AI Systems · Efficient Inference · Reasoning Research</code>
 </p>
 
 <p align="center">
@@ -18,7 +14,7 @@
 
 ---
 
-## About
+### About
 
 I'm **Guohao Li**, focused on efficient AI systems and reasoning infrastructure. I work on making model inference faster, memory smarter, and agent reasoning more reliable — keeping experiments small enough to reuse.
 
@@ -28,36 +24,18 @@ I'm **Guohao Li**, focused on efficient AI systems and reasoning infrastructure.
 
 ---
 
-## GitHub Stats
+### At a Glance
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=li-guohao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&rank_icon=github" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-guohao&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=li-guohao&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=li-guohao&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Public_Repos-31-0F766E?style=for-the-badge" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Total_Stars-30-2F6FED?style=for-the-badge" alt="Total Stars" />
+  <img src="https://img.shields.io/github/followers/li-guohao?style=for-the-badge&label=Followers&color=7C3AED" alt="Followers" />
+  <img src="https://img.shields.io/badge/Contributions-1010%2B-EA4335?style=for-the-badge" alt="Contributions" />
 </p>
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=li-guohao&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-## Tech Stack
+### Tech Stack
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -72,41 +50,28 @@ I'm **Guohao Li**, focused on efficient AI systems and reasoning infrastructure.
 
 ---
 
-## Featured Projects
+### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/li-guohao/asam-attention">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=li-guohao&repo=asam-attention&theme=tokyonight&hide_border=true&bg_color=00000000" alt="asam-attention" />
-  </a>
-  <a href="https://github.com/li-guohao/causal-finance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=li-guohao&repo=causal-finance&theme=tokyonight&hide_border=true&bg_color=00000000" alt="causal-finance" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/li-guohao/engineering-intelligence-suite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=li-guohao&repo=engineering-intelligence-suite&theme=tokyonight&hide_border=true&bg_color=00000000" alt="engineering-intelligence-suite" />
-  </a>
-  <a href="https://github.com/DarkMentalAI/awesome-gui-md">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkMentalAI&repo=awesome-gui-md&theme=tokyonight&hide_border=true&bg_color=00000000" alt="awesome-gui-md" />
-  </a>
-</p>
-
-<p align="center">More experiments and tools on <a href="https://github.com/li-guohao?tab=repositories">my repositories</a>.</p>
+| Project | Description |
+| --- | --- |
+| **[asam-attention](https://github.com/li-guohao/asam-attention)** | Adaptive Sparse Attention Module with Flash Attention — 5.45x speedup on consumer GPUs |
+| **[causal-finance](https://github.com/li-guohao/causal-finance)** | Causal inference toolkit for financial analysis with Double Machine Learning and Instrumental Variable methods |
+| **[engineering-intelligence-suite](https://github.com/li-guohao/engineering-intelligence-suite)** | TypeScript toolkit for technical debt analysis, PERT cost estimation, and on-call incident management with LLM support |
+| **[awesome-gui-md](https://github.com/DarkMentalAI/awesome-gui-md)** | Agent-readable GUI.md interface contracts, patterns, and Web adapters |
 
 ---
 
-## Current Loop
+### Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Efficient_Inference-0F766E?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Building-Memory--aware_Models-2F6FED?style=flat-square" alt="Building" />
-  <img src="https://img.shields.io/badge/Research-Causal_Reasoning-7C3AED?style=flat-square" alt="Research" />
-</p>
-
-<p align="center"><i>Keeping experiments small enough to reuse.</i></p>
+- **Efficient Inference** — Sparse attention and compact model serving on consumer hardware
+- **Memory-aware Models** — Differentiable external memory and mixture-of-block attention
+- **Causal Reasoning** — Double ML and instrumental variable methods for applied research
 
 ---
+
+<p align="center">
+  <i>Keeping experiments small enough to reuse.</i>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=li-guohao&color=0f766e&style=flat-square&label=Profile+views" alt="Profile views" />
