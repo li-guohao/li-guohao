@@ -21,6 +21,7 @@
 I'm **Guohao Li**, focused on building efficient AI systems, practical developer tools, and reusable research code. I keep experiments small enough to reuse, turn agent workflows into tangible tools, and write notes that make the next edit faster.
 
 - Building with **[@DarkMentalAI](https://github.com/DarkMentalAI)** and **[@LoIV44](https://github.com/LoIV44)**
+- Contributing to the [nullclaw](https://github.com/nullclaw/nullclaw) autonomous AI infrastructure ecosystem
 - Exploring efficient attention, memory-aware models, and causal inference
 - Packaging LLM-assisted workflows into reusable developer tooling
 - Sharing notes and project indexes at [li-guohao.github.io](https://li-guohao.github.io)
@@ -63,6 +64,15 @@ I'm **Guohao Li**, focused on building efficient AI systems, practical developer
   </a>
   <a href="https://github.com/li-guohao/causal-finance">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=li-guohao&repo=causal-finance&theme=tokyonight&hide_border=true&bg_color=00000000" alt="causal-finance" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/li-guohao/engineering-intelligence-suite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=li-guohao&repo=engineering-intelligence-suite&theme=tokyonight&hide_border=true&bg_color=00000000" alt="engineering-intelligence-suite" />
+  </a>
+  <a href="https://github.com/DarkMentalAI/awesome-gui-md">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkMentalAI&repo=awesome-gui-md&theme=tokyonight&hide_border=true&bg_color=00000000" alt="awesome-gui-md" />
   </a>
 </p>
 
